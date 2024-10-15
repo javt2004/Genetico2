@@ -1,0 +1,8 @@
+FMUTACION = 0.5
+CRECOMBINACION = 0.5
+NGENERACIONES = 30
+TPOBLACION = 100
+FUNCION = (x-10)**3+(y-20)**3
+INTERVALO = [(13, 100), (0, 100)]
+RESTRICT = ["-1*((x-5)**2-(y-5)**2+100)<=0","((x-6)**2-(y-5)**2+82.81)<=0"]
+OBJETIVO = 'MAX'
